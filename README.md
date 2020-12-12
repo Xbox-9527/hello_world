@@ -1,5 +1,4 @@
 # hello_world
-My first test_repository
 
 我想这是我的一次小小的尝试；
 
